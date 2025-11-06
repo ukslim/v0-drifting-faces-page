@@ -1,5 +1,19 @@
 # Drifting faces page
 
+I made this when demoing V0 to a colleague. The prompt was the first thing that came into my head: 
+"Make me a web page where faces drift horizontally across the window."
+
+v0 chose to interpret that as a variety of canvas-based smileys, and chose the colour scheme. I thought it was very pleasant, so decided to
+share it on Github.
+
+I did subsequently prompt v0 to:
+
+ - add clouds - I specified not using image assets, v0 chose everything else
+ - randomise eyes, mouth, etc. independently
+ - an easter egg suggested by someone I showed it to
+
+# Original v0 README
+
 *Automatically synced with your [v0.app](https://v0.app) deployments*
 
 [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/john-hartnups-projects/v0-drifting-faces-page)
